@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ygp4ph)
+![Root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=ygp4ph&style=dark)
 
 <!--
 **ygp4ph/ygp4ph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
